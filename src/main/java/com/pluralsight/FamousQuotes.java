@@ -28,8 +28,9 @@ public class FamousQuotes {
 
         } catch (Exception e) {
             System.out.println("Pick a number between 1 and 10, that number is invalid.");
-            System.out.println("Goodbye");
         }
+
+        System.out.println("Goodbye");
 
     }
 }
